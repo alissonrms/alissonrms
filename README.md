@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alissonrms/alissonrms/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alissonrms/alissonrms/84279727c7e91c4d31c23ab09186944e2d77bf55/snake.svg" alt="Snake animation" />
 
 ###
