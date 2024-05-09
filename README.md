@@ -3,10 +3,9 @@
 ###
 <h2 align="left">About me</h2>
 
-###
-
 📚 Graduated in Information Systems from the [Federal Institute of Espírito Santo](https://www.ifes.edu.br)<br>
 💻 Developer at [IM Digital](https://imdigital.com/)<br>
+📝 Check out my portfolio https://alishot.dev<br>
 💬 Ask me anything [here](https://github.com/alissonrms/alissonrms/issues)<br>
 📫 How to reach me: [armelquiades2000@gmail.com](mailto:armelquiades2000@gmail.com)<br>
 
